@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+datetime
+pillow
+pydeck
+joblib
+lightgbm
+scikit-learn
